@@ -1,0 +1,25 @@
+{
+  "name": "curvestone-home-assignment",
+  "version": "1.0.0",
+  "description": "Curvestone | Tech homework",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itc-developer/curvestone-home-assignment.git"
+  },
+  "author": "itc-developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itc-developer/curvestone-home-assignment/issues"
+  },
+  "homepage": "https://github.com/itc-developer/curvestone-home-assignment#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
